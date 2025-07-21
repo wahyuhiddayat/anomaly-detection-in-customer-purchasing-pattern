@@ -1,0 +1,6 @@
+Cluster_Name,Recency_mean,Recency_median,Frequency_mean,Frequency_median,Monetary_mean,Monetary_median,IsGuest_count,IsGuest_sum,Guest_Percentage
+Casual Buyers,48.72,37.0,3.21,2.0,1339.17,804.26,3552,495,13.94
+Frequent Mid-to-High Value Customers,15.36,7.0,20.38,18.0,12451.75,7318.0,236,2,0.85
+Inactive Customers,255.7,253.0,1.28,1.0,700.02,322.28,1954,925,47.34
+Loyal High-Value Customers,6.89,2.0,113.22,93.0,62209.01,58825.83,9,0,0.0
+VIP/Wholesale Customers,7.2,2.0,40.4,46.0,205560.23,194550.79,5,0,0.0
